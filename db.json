@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Abc",
+      "number": "90009991",
+      "id": 1
+    },
+    {
+      "name": "def",
+      "number": "2230003",
+      "id": 2
+    },
+    {
+      "name": "sir",
+      "number": "67555456",
+      "id": 4
+    },
+    {
+      "name": "NoName",
+      "number": "12096543",
+      "id": 5
+    },
+    {
+      "name": "getSetGo",
+      "number": "1900092663",
+      "id": 6
+    },
+    {
+      "name": "el",
+      "number": "09887663",
+      "id": 7
+    },
+    {
+      "name": "mick",
+      "number": "10001838",
+      "id": 8
+    }
+  ],
+  "Users": [
+    {
+      "username": "adminIam",
+      "password": "pangaEnjay"
+    }
+  ]
+}

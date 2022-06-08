@@ -1,0 +1,21 @@
+#mainArea2{
+    padding: 50px;
+    display: grid;
+    justify-content: center
+}
+#profilegroup{
+    padding-left: 15px;
+    width: 500px;
+    font-size: smaller;
+}
+#profilegroup label{
+    font-weight: bold;
+}
+#ub{
+    margin-left: 130px;
+    margin-bottom: 20px;
+}
+#heading{
+    color: #15083b;
+    width: max-content;
+}
